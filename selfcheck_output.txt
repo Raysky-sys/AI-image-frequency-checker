@@ -1,0 +1,45 @@
+
+           --- environment ---
+           Interpreter: C:\Users\RMA DEPT\AppData\Local\Programs\Python\Python310\python.exe
+           Version:     3.10.6
+           Working dir: C:\Users\RMA DEPT\OneDrive - skytechgaming.com\Documents\Ai image detection\Beta\AI image frequency checker
+           Script dir:  C:\Users\RMA DEPT\OneDrive - skytechgaming.com\Documents\Ai image detection\Beta\AI image frequency checker
+
+           Checking third-party packages...
+             numpy        2.2.6
+             cv2          5.0.0
+             matplotlib   3.10.9
+             tkinter      n/a
+
+          [OK]   All required packages are importable.
+           Checking required files...
+          [OK]   All 7 required source files are present.
+           Importing modules...
+          [OK]   Core modules import cleanly.
+           Validating the operator guide...
+           Guide sections: 9
+           Block counts:   [14, 42, 20, 26, 30, 23, 18, 33, 21]
+          [OK]   The operator guide is complete.
+          [OK]   The rendered guide is 22,549 characters.
+           Testing the analysis functions...
+          [OK]   FFT analysis produces a result of the correct shape.
+          [OK]   ELA produces a result of the correct shape.
+          [OK]   Noise Analysis produces a result of the correct shape.
+          [OK]   All 4 magnifier modes work.
+           Checking the result attribute contract...
+          [OK]   All three result types expose the same attributes.
+           Checking the guide text styles...
+          [OK]   All 7 guide text styles are supported by this Tk build.
+           Checking the magnifier enhancements...
+          [OK]   Every magnifier mode measurably changes the layer.
+           Checking the result cache...
+          [OK]   The result cache stores, retrieves, and bounds its entries.
+           Checking the GUI module...
+          [OK]   The GUI module compiles without syntax errors.
+           Checking the GUI public interface...
+          [OK]   The GUI module defines the expected public interface.
+           Building the GUI in a hidden window...
+          [OK]   The GUI builds successfully.
+
+           All self-checks passed.
+
